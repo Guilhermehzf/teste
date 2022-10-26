@@ -1,2 +1,0 @@
-# ISSO É um TESTE
-
